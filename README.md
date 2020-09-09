@@ -1,4 +1,4 @@
-# DSTALGO Writeups For The Lab Activity
+# DSTALGO Writeups For The Lab Activities
 
 ## Language
 <a><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
