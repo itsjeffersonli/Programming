@@ -25,8 +25,8 @@ if __name__ == "__main__":
     result = binarysearch(array, x) 
   
     if (result == -1): 
-        print("Element not present") 
+        print("The Name not present") 
     else: 
-        print("Element found at index" ,result) 
+        print("Name found at index" ,result) 
     
     print(array)    
