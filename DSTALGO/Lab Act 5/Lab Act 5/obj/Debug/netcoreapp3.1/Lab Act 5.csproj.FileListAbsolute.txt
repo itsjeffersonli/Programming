@@ -1,0 +1,13 @@
+C:\Users\Jeff\source\repos\Lab Act 5\Lab Act 5\bin\Debug\netcoreapp3.1\Lab Act 5.exe
+C:\Users\Jeff\source\repos\Lab Act 5\Lab Act 5\bin\Debug\netcoreapp3.1\Lab Act 5.deps.json
+C:\Users\Jeff\source\repos\Lab Act 5\Lab Act 5\bin\Debug\netcoreapp3.1\Lab Act 5.runtimeconfig.json
+C:\Users\Jeff\source\repos\Lab Act 5\Lab Act 5\bin\Debug\netcoreapp3.1\Lab Act 5.runtimeconfig.dev.json
+C:\Users\Jeff\source\repos\Lab Act 5\Lab Act 5\bin\Debug\netcoreapp3.1\Lab Act 5.dll
+C:\Users\Jeff\source\repos\Lab Act 5\Lab Act 5\bin\Debug\netcoreapp3.1\Lab Act 5.pdb
+C:\Users\Jeff\source\repos\Lab Act 5\Lab Act 5\obj\Debug\netcoreapp3.1\Lab Act 5.csprojAssemblyReference.cache
+C:\Users\Jeff\source\repos\Lab Act 5\Lab Act 5\obj\Debug\netcoreapp3.1\Lab Act 5.AssemblyInfoInputs.cache
+C:\Users\Jeff\source\repos\Lab Act 5\Lab Act 5\obj\Debug\netcoreapp3.1\Lab Act 5.AssemblyInfo.cs
+C:\Users\Jeff\source\repos\Lab Act 5\Lab Act 5\obj\Debug\netcoreapp3.1\Lab Act 5.csproj.CoreCompileInputs.cache
+C:\Users\Jeff\source\repos\Lab Act 5\Lab Act 5\obj\Debug\netcoreapp3.1\Lab Act 5.dll
+C:\Users\Jeff\source\repos\Lab Act 5\Lab Act 5\obj\Debug\netcoreapp3.1\Lab Act 5.pdb
+C:\Users\Jeff\source\repos\Lab Act 5\Lab Act 5\obj\Debug\netcoreapp3.1\Lab Act 5.genruntimeconfig.cache
