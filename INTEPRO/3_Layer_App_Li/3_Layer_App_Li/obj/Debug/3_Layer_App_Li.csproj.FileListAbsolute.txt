@@ -1,0 +1,10 @@
+C:\Users\Nitro\Source\Repos\3_Layer_App_Li\3_Layer_App_Li\bin\Debug\3_Layer_App_Li.exe.config
+C:\Users\Nitro\Source\Repos\3_Layer_App_Li\3_Layer_App_Li\bin\Debug\3_Layer_App_Li.exe
+C:\Users\Nitro\Source\Repos\3_Layer_App_Li\3_Layer_App_Li\bin\Debug\3_Layer_App_Li.pdb
+C:\Users\Nitro\Source\Repos\3_Layer_App_Li\3_Layer_App_Li\obj\Debug\3_Layer_App_Li.csprojAssemblyReference.cache
+C:\Users\Nitro\Source\Repos\3_Layer_App_Li\3_Layer_App_Li\obj\Debug\_3_Layer_App_Li.Form1.resources
+C:\Users\Nitro\Source\Repos\3_Layer_App_Li\3_Layer_App_Li\obj\Debug\_3_Layer_App_Li.Properties.Resources.resources
+C:\Users\Nitro\Source\Repos\3_Layer_App_Li\3_Layer_App_Li\obj\Debug\3_Layer_App_Li.csproj.GenerateResource.cache
+C:\Users\Nitro\Source\Repos\3_Layer_App_Li\3_Layer_App_Li\obj\Debug\3_Layer_App_Li.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\Source\Repos\3_Layer_App_Li\3_Layer_App_Li\obj\Debug\3_Layer_App_Li.exe
+C:\Users\Nitro\Source\Repos\3_Layer_App_Li\3_Layer_App_Li\obj\Debug\3_Layer_App_Li.pdb
