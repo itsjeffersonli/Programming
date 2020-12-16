@@ -1,0 +1,12 @@
+/Users/dldygnl/Desktop/Finals_DSTALGO/Finals_DSTALGO/bin/Debug/netcoreapp3.1/Finals_DSTALGO.deps.json
+/Users/dldygnl/Desktop/Finals_DSTALGO/Finals_DSTALGO/bin/Debug/netcoreapp3.1/Finals_DSTALGO.runtimeconfig.json
+/Users/dldygnl/Desktop/Finals_DSTALGO/Finals_DSTALGO/bin/Debug/netcoreapp3.1/Finals_DSTALGO.runtimeconfig.dev.json
+/Users/dldygnl/Desktop/Finals_DSTALGO/Finals_DSTALGO/bin/Debug/netcoreapp3.1/Finals_DSTALGO.dll
+/Users/dldygnl/Desktop/Finals_DSTALGO/Finals_DSTALGO/bin/Debug/netcoreapp3.1/Finals_DSTALGO.pdb
+/Users/dldygnl/Desktop/Finals_DSTALGO/Finals_DSTALGO/obj/Debug/netcoreapp3.1/Finals_DSTALGO.csprojAssemblyReference.cache
+/Users/dldygnl/Desktop/Finals_DSTALGO/Finals_DSTALGO/obj/Debug/netcoreapp3.1/Finals_DSTALGO.AssemblyInfoInputs.cache
+/Users/dldygnl/Desktop/Finals_DSTALGO/Finals_DSTALGO/obj/Debug/netcoreapp3.1/Finals_DSTALGO.AssemblyInfo.cs
+/Users/dldygnl/Desktop/Finals_DSTALGO/Finals_DSTALGO/obj/Debug/netcoreapp3.1/Finals_DSTALGO.csproj.CoreCompileInputs.cache
+/Users/dldygnl/Desktop/Finals_DSTALGO/Finals_DSTALGO/obj/Debug/netcoreapp3.1/Finals_DSTALGO.dll
+/Users/dldygnl/Desktop/Finals_DSTALGO/Finals_DSTALGO/obj/Debug/netcoreapp3.1/Finals_DSTALGO.pdb
+/Users/dldygnl/Desktop/Finals_DSTALGO/Finals_DSTALGO/obj/Debug/netcoreapp3.1/Finals_DSTALGO.genruntimeconfig.cache

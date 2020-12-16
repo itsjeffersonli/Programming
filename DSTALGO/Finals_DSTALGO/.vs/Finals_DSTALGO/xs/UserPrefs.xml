@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{096E7D82-1054-467A-B796-D4A1ECAA15A4}|Default">
+  <MonoDevelop.Ide.ItemProperties.Finals__DSTALGO PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Finals_DSTALGO/Program.cs">
+    <Files>
+      <File FileName="Finals_DSTALGO/Program.cs" Line="133" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Finals_DSTALGO" expanded="True">
+            <Node name="Finals_DSTALGO" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
