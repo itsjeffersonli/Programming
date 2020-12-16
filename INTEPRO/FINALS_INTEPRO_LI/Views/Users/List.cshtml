@@ -1,0 +1,93 @@
+﻿@using Get_Data
+@model List<data_list>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Database</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <style>
+        .divider {
+            width: 5px;
+            height: auto;
+            display: inline-block;
+        }
+    </style>
+</head>
+<body style="font-family: 'Big Shoulders Stencil Display', cursive;">
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="#">EDIT</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarColor01" aria-controls="navbarColor01" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarColor01">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item active">
+                    <a class="nav-link" href="~/Views/data_users/Home_admin.cshtml">
+                        Home
+                        <span class="sr-only">(current)</span>
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="~/Users/Add">Add User</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="~/Users/List">View Data Users</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+    <div>
+        <table class="table table-hover">
+            <thead>
+                <tr class="table-danger hatdog">
+                    <th>RecordID</th>
+                    <th>Record Name</th>
+                    <th>Student ID</th>
+                    <th>Name</th>
+                    <th>Telephone Number</th>
+                    <th>Address</th>
+                    <th>Email</th>
+                    <th>Username</th>
+                    <th>Mothers Name</th>
+                    <th>M Tel Number</th>
+                    <th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (data_list item in Model)
+                {
+                <tr class="table-primary hatdog">
+                    <th scope="row">@item.RecordID</th>
+                    <td>@item.RecordName</td>
+                    <td>@item.StudentID</td>
+                    <td>@item.Name</td>
+                    <td>@item.TelNumber</td>
+                    <td>@item.Address</td>
+                    <td>@item.Email</td>
+                    <td>@item.Username</td>
+                    <td>@item.MothersName</td>
+                    <td>@item.MTelNumber</td>
+                    <td>
+                        <div class="btn-group">
+                            <button type="button" class="btn btn-success" onclick="window.location.href='/Users/Edit?RecordID=@item.RecordID'" style="width:50px">Edit</button>
+                            <form action="~/Users/Delete" method="post">
+                                <input type="hidden" name="RecordID" value="@item.RecordID" />
+                                <div class="divider" />
+                                <button type="submit" class="btn btn-danger">DELETE</button>
+                            </form>
+                        </div>
+                </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

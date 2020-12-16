@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{521A8AA5-E220-47D5-B0E0-50848F985E6C}|">
+  <MonoDevelop.Ide.ItemProperties.FINALS__INTEPRO__LI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/Users/Login.cshtml">
+    <Files>
+      <File FileName="Models/data_list.cs" Line="1" Column="1" />
+      <File FileName="Models/Sql.cs" Line="1" Column="1" />
+      <File FileName="Controllers/UsersController.cs" Line="66" Column="10" />
+      <File FileName="Views/Users/Login.cshtml" Line="27" Column="27" />
+      <File FileName="Models/Account.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FINALS_INTEPRO_LI" expanded="True">
+            <Node name="FINALS_INTEPRO_LI" expanded="True">
+              <Node name="App_Start" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Users" expanded="True">
+                  <Node name="Login.cshtml" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
