@@ -7154,11 +7154,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dldygnl\\source\\repos\\Activity3_Li\\Activity3_Li.csproj",
+      "projectUniqueName": "C:\\Users\\dldygnl\\Desktop\\DSTALGO\\ENTEPRO\\Activity3_Li\\Activity3_Li.csproj",
       "projectName": "Activity3_Li",
-      "projectPath": "C:\\Users\\dldygnl\\source\\repos\\Activity3_Li\\Activity3_Li.csproj",
+      "projectPath": "C:\\Users\\dldygnl\\Desktop\\DSTALGO\\ENTEPRO\\Activity3_Li\\Activity3_Li.csproj",
       "packagesPath": "C:\\Users\\dldygnl\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dldygnl\\source\\repos\\Activity3_Li\\obj\\",
+      "outputPath": "C:\\Users\\dldygnl\\Desktop\\DSTALGO\\ENTEPRO\\Activity3_Li\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dldygnl\\AppData\\Roaming\\NuGet\\NuGet.Config",
